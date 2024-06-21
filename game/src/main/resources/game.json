@@ -1,0 +1,131 @@
+{
+  "blueTeamStats": {
+    "9283": {
+      "player": {
+        "name": "dejuto",
+        "id": 9283,
+        "isOnline": true,
+        "rank": "Gold",
+        "gamesCount": 77
+      },
+      "kills": 1,
+      "deaths": 1,
+      "assists": 0
+    },
+    "3": {
+      "player": {
+        "name": "zespees",
+        "id": 3,
+        "isOnline": true,
+        "rank": "Platinum",
+        "gamesCount": 24
+      },
+      "kills": 2,
+      "deaths": 0,
+      "assists": 1
+    },
+    "8276": {
+      "player": {
+        "name": "ml7",
+        "id": 8276,
+        "isOnline": true,
+        "rank": "Platinum",
+        "gamesCount": 99
+      },
+      "kills": 2,
+      "deaths": 0,
+      "assists": 1
+    },
+    "109832": {
+      "player": {
+        "name": "awkward",
+        "id": 109832,
+        "isOnline": true,
+        "rank": "Bronze",
+        "gamesCount": 20
+      },
+      "kills": 0,
+      "deaths": 1,
+      "assists": 0
+    },
+    "987": {
+      "player": {
+        "name": "jax2",
+        "id": 987,
+        "isOnline": true,
+        "rank": "Platinum",
+        "gamesCount": 124
+      },
+      "kills": 0,
+      "deaths": 0,
+      "assists": 0
+    }
+  },
+  "redTeamStats": {
+    "1233": {
+      "player": {
+        "name": "maxon",
+        "id": 1233,
+        "isOnline": true,
+        "rank": "Bronze",
+        "gamesCount": 24
+      },
+      "kills": 0,
+      "deaths": 1,
+      "assists": 0
+    },
+    "122": {
+      "player": {
+        "name": "jixie",
+        "id": 122,
+        "isOnline": true,
+        "rank": "Silver",
+        "gamesCount": 77
+      },
+      "kills": 0,
+      "deaths": 1,
+      "assists": 1
+    },
+    "2987": {
+      "player": {
+        "name": "linklpis",
+        "id": 2987,
+        "isOnline": true,
+        "rank": "Gold",
+        "gamesCount": 143
+      },
+      "kills": 0,
+      "deaths": 1,
+      "assists": 0
+    },
+    "12": {
+      "player": {
+        "name": "qenze",
+        "id": 12,
+        "isOnline": true,
+        "rank": "Platinum",
+        "gamesCount": 53
+      },
+      "kills": 2,
+      "deaths": 1,
+      "assists": 0
+    },
+    "19837": {
+      "player": {
+        "name": "lekvid",
+        "id": 19837,
+        "isOnline": true,
+        "rank": "Bronze",
+        "gamesCount": 41
+      },
+      "kills": 0,
+      "deaths": 1,
+      "assists": 0
+    }
+  },
+  "map": {
+    "name": "Rialto",
+    "id": 12,
+    "gameMode": "DeathMatch"
+  }
+}
